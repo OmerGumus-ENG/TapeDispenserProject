@@ -22,6 +22,20 @@ Unexploded view of an engineering drawing of the finished CAD model of the tape 
 Exploded view of the engineering drawing.
 <img width="902" height="557" alt="Screenshot 2026-10-24 102617" src="https://github.com/user-attachments/assets/c43af545-ddec-435b-8163-a8375365dca6" />
 
+Lathe used for making the aluminium part.
+<img width="752" height="505" alt="Screenshot 2026-10-24 103117" src="https://github.com/user-attachments/assets/c2bf8641-e2fe-4f5f-a4b1-cf020fe0fdbf" />
+
+CAD 2D profile to laser print the main body.
+<img width="588" height="692" alt="Screenshot 2026-10-24 103233" src="https://github.com/user-attachments/assets/ccd516af-d190-4ce2-8bcf-9c45e30e830e" />
+
+Illustrator transfer needed to use the laser cutter. 
+<img width="920" height="591" alt="Screenshot 2026-10-24 103355" src="https://github.com/user-attachments/assets/fd9cc5b9-8c72-4f85-b72b-55b1fdbd4dcd" />
+
+Assembly of tape dispenser. 
+<img width="750" height="382" alt="Screenshot 2026-10-24 103450" src="https://github.com/user-attachments/assets/e31e79e0-066e-446b-ba44-416d7e3572f5" />
+
+
+
 
 
 

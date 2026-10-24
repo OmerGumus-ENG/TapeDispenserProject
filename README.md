@@ -3,9 +3,7 @@
 The objective of this project was to research, design and prototype a functioning Sellotape dispenser constrained by a material kit and a tight deadline. I needed to cut out the design of the dispenser from an acrylic sheet and CNC machine an aluminium part to serve as the core of the project. This needed the use of lots of different software like Fusion360 to map out the CNC path and AUTOCAD Inventor to design the main body. Furthermore i used the 2D AUTOCAD Inventor outlines to transfer them to Adobe Illustrator to laser cut the acrylic. 
  
 
-## 📸 Overview & Final Design
-
-> *[Drag and drop a photo of your physical prototype or a 3D CAD render here]*
+## Process Images & Final Design
 
 Evaluation of all potential designs to find the best one statistically. 
 

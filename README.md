@@ -14,13 +14,13 @@ Evaluation of all potential designs to find the best one statistically.
 <img width="462" height="526" alt="Screenshot 2026-10-24 102234" src="https://github.com/user-attachments/assets/a21da65a-12c5-4894-aaaa-150ed8276b22" />
 
 Engineering CAD drawing of the aluminium core for the project.
-> <img width="912" height="642" alt="Screenshot 2026-10-24 102351" src="https://github.com/user-attachments/assets/d7f8f804-42f1-42ec-8476-e56bb05b6f14" />
+<img width="912" height="642" alt="Screenshot 2026-10-24 102351" src="https://github.com/user-attachments/assets/d7f8f804-42f1-42ec-8476-e56bb05b6f14" />
 
 Unexploded view of an engineering drawing of the finished CAD model of the tape dispenser.
-> <img width="982" height="600" alt="Screenshot 2026-10-24 102501" src="https://github.com/user-attachments/assets/122c6b44-8c01-4502-be31-48b35a736cf8" />
+<img width="982" height="600" alt="Screenshot 2026-10-24 102501" src="https://github.com/user-attachments/assets/122c6b44-8c01-4502-be31-48b35a736cf8" />
 
 Exploded view of the engineering drawing.
-> <img width="902" height="557" alt="Screenshot 2026-10-24 102617" src="https://github.com/user-attachments/assets/c43af545-ddec-435b-8163-a8375365dca6" />
+<img width="902" height="557" alt="Screenshot 2026-10-24 102617" src="https://github.com/user-attachments/assets/c43af545-ddec-435b-8163-a8375365dca6" />
 
 
 

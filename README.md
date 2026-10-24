@@ -44,35 +44,32 @@ Assembly of tape dispenser.
 <img width="750" height="382" alt="Screenshot 2026-10-24 103450" src="https://github.com/user-attachments/assets/e31e79e0-066e-446b-ba44-416d7e3572f5" />
 
 
+## Key Specifications & Bill of Materials (BOM)
 
-
-
-
-
-
-
-
-
-
-
-
----
-
-## Technical Specifications
-* **Microcontroller / Logic:** *(e.g., Arduino Nano, ESP32, or purely mechanical/analog)*
-* **Actuators / Motors:** *(e.g., Stepper motor, DC gear motor with encoder)*
-* **Power Supply:** *(e.g., 5V USB, 12V DC adapter)*
-* **Sensors:** *(e.g., IR proximity sensor for auto-feed)*
-* **Design Tools:** *(e.g., SolidWorks, KiCad, 3D Printed PLA)*
+* **Housing Material:** Clear Acrylic / PMMA (Laser cut profile)
+* **Core Hub:** Machined Aluminium Spool Core
+* **Cutting Mechanism:** Serrated Stainless Steel Cutting Blade (Screw mounted)
+* **Hardware & Fasteners:** Machine screws, threaded stand-offs/spacers, and assembly bolts
+* **Compatibility:** Standard office / packing tape rolls
+* **Manufacturing Processes:** 
+  * 2D CAD Design (Laser Cutting)
+  * Mechanical Assembly & Fastener Selection
+  * Machining (Aluminium Hub)
 
 ---
 
-## Mechanical & Electrical Design
+## Mechanical Design & Features
 
-> *[Drag and drop a screenshot of your CAD assembly or schematic here]*
-
-* **Mechanism:** Explain how the cutting or feeding mechanism works (e.g., gear ratio, roller design, blade actuation).
-* **Electronics:** Describe the circuit layout, motor driver selection (e.g., L298N, A4988), and power management.
+* **Laser Cut Acrylic Frame:** Acrylic structure designed for structural stability and a clean visual looks.
+* **Core Design:** Removable aluminium hub for easy tape roll replacement.
+* **Replaceable Blade System:** Serrated metal blade secured via dual machine screws for easy maintenance or replacement.
+* **Standoff Construction:** Precision metal standoffs maintain structural alignment across side panels under tension.
 
 ---
 
+## Manufacturing & Assembly Steps
+
+1. **CAD Profile Design:** Designed 2D cutting profiles for main side panels and support elements.
+2. **Laser Cutting:** Cut acrylic components using optimized laser parameters to ensure smooth, polished edges.
+3. **Core Machining:** Turned down aluminium stock to create the inner tape core hub.
+4. **Final Mechanical Assembly:** Fastened side panels with threaded spacers, installed the aluminium core, and secured the cutting blade.
